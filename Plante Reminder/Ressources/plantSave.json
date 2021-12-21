@@ -1,0 +1,58 @@
+[
+   {
+       "id": 1,
+       "species":"Dracanea",
+       "nickname":"Marc",
+       "water_evry": 3,
+       "imageName": "dracaena",
+       "description_internet": "Les Dracaena (Dracaena spp.) appartiennent à la vaste famille des Agavaceae et forment un ordre qui compte de nombreuses espèces d'arbres et arbustes. Originaires d'Afrique tropicale ou d'Asie, ces plantes sont généralement non rustiques et une température d'environ 18°C, tout au long de l'année, leur convient : elles sont ainsi adaptées à la culture en intérieur. Elles sont peu exigeantes et très résistantes : on les classes parmi les plantes d'intérieur les plus faciles à vivre.",
+       "notes" : ""
+    },
+   {
+       "id" : 2,
+       "species":"Monstrosa",
+       "nickname":"Michelle",
+       "water_evry": 5,
+       "imageName": "monstera",
+       "description_internet": "La discrétion, très peu pour lui ! Comme son nom l’indique, le Monstera sait imposer sa loi, notamment dans son milieu naturel où il se transforme en véritable liane grimpant le long des troncs des arbres. Il est à coup sûr un compagnon malin : il a su développer des feuilles supérieures dentelées pour permettre à celles inférieures de capter la lumière du soleil. Imposant et sculptural, il existe en plusieurs variétés toutes plus belles les unes que les autres, comme le fameux Monstera Variegata au feuillage bicolore blanc et vert. Pas étonnant que cette plante d’intérieur particulièrement photogénique ait même lancé une nouvelle tendance très populaire sur Instagram avec son hashtag #monsteramonday. Vous êtes tombé sous le charme de cette beauté sauvage et tropicale ? Avant de l’adopter, assurez-vous de connaître ses besoins ! Découvrez ci-dessous nos meilleures astuces d’entretien du Monstera !",
+       "notes": ""
+    },
+   {
+       "id": 3,
+       "species":"Bonzai",
+       "nickname":"Pierick",
+       "water_evry": 10,
+       "imageName": "bonzaie",
+       "description_internet": "Le bonsaï (盆栽, bonsai?) ou bonzaï1, culture miniaturisée de végétaux, est un art traditionnel japonais dérivé de l'art originaire chinois du penjing. Cette pratique se retrouve également dans les cultures d'autres pays de cette région du monde comme le Vietnam ou la Corée sous l'influence chinoise. La plante ou l'arbre qui en est l'objet est miniaturisé par application de différentes techniques (taille des branches et racines, gestion des apports nutritifs...) et modelage de la forme (par ligature). Le but en est une recherche esthétique et la ressemblance de l'arbre avec la nature.",
+       "notes": ""
+    },
+   {
+       "id": 4,
+       "species":"Avocatié",
+       "nickname":"Gégé",
+       "water_evry": 1,
+       "imageName": "avocatier",
+       "description_internet": "L'avocatier (Persea americana) est une espèce d'arbres fruitiers de la famille des Lauracées, originaire du Mexique et d'Amérique centrale. Il est notamment cultivé pour ses fruits, les avocats, riches en lipides.",
+       "notes": ""
+   },
+   {
+       "id": 5,
+       "species":"sarracénie",
+       "nickname":"Murielle",
+       "water_evry": 1,
+       "imageName": "sarracénie",
+       "description_internet": "Le genre Sarracenia rassemble des plantes carnivores dont les feuilles se dressent en tubes. On les appelle communément sarracénies ou sarracènes. Elles sont parmi les plantes carnivores les plus faciles à cultiver et ont leur place dans nos intérieurs ou au jardin.",
+       "notes": ""
+   },
+   {
+       "id": 6,
+       "species":"plante par default",
+       "nickname":"le default",
+       "water_evry": 365,
+       "imageName": "default",
+       "description_internet": "Lorem Ipsum",
+       "notes": ""
+   }
+    
+    
+ ]
